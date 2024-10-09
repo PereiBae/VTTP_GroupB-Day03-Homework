@@ -94,7 +94,7 @@ public class CSVMain {
         double totalRating;
         int count;
 
-        AppRating(String highestRatedApp, double highestRating, String lowestRatedApp, double lowestrating){
+        AppRating(String highestRatedApp, double highestRating, String lowestRatedApp, double lowestRating){
             this.highestRatedApp = highestRatedApp;
             this.highestRating = highestRating;
             this.lowestRatedApp = lowestRatedApp;
