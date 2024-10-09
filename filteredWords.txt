@@ -1,170 +1,175 @@
-Category: EVENTS
-Highest Rated: FAST EO (5.0)
-Lowest Rating: Outdoor Movies BC (2.9)
-Average Rating: 4.39
 
-Category: FOOD_AND_DRINK
-Highest Rated: Easy Recipes (4.7)
-Lowest Rating: B.GOOD (2.9)
-Average Rating: 4.150943396226415
-
-Category: PERSONALIZATION
-Highest Rated: Android P Style Icon Pack (5.0)
-Lowest Rating: Pint - FN Theme (2.5)
-Average Rating: 4.3307189542483675
-
-Category: NEWS_AND_MAGAZINES
-Highest Rated: NOMISMA.com.cy by FMW (5.0)
-Lowest Rating: e-DN - den digitala tidningen från Dagens Nyheter (2.2)
-Average Rating: 4.076344086021505
-
-Category: BUSINESS
-Highest Rated: Ag Valley Cooperative (5.0)
-Lowest Rating: A/C REFRIGERANT CAPACITY (1.7)
-Average Rating: 4.1013698630137
-
-Category: PHOTOGRAPHY
-Highest Rated: CB VIDEO VISION (5.0)
-Lowest Rating: Live DV (2.0)
-Average Rating: 4.1223880597014935
-
-Category: TRAVEL_AND_LOCAL
-Highest Rated: BG Guide (5.0)
-Lowest Rating: EF Go Ahead Tour Companion (2.3)
-Average Rating: 4.059
-
-Category: EDUCATION
-Highest Rated: Sago Mini Hat Maker (4.9)
-Lowest Rating: EasyBib: Citation Generator (3.5)
-Average Rating: 4.352112676056335
-
-Category: BOOKS_AND_REFERENCE
-Highest Rated: R Programing Offline Tutorial (5.0)
-Lowest Rating: Dungeons and Dragons DM Tools (3.1)
-Average Rating: 4.381927710843374
-
-Category: FAMILY
-Highest Rated: AP Art History Flashcards (5.0)
-Lowest Rating: Speech Therapy: F (1.0)
-Average Rating: 4.178192090395479
-
-Category: SPORTS
-Highest Rated: EC SPORTS (5.0)
-Lowest Rating: BG Score (2.6)
-Average Rating: 4.177372262773721
-
-Category: LIBRARIES_AND_DEMO
-Highest Rated: Eternal life (5.0)
-Lowest Rating: EyeCloud (3.1)
-Average Rating: 4.242857142857143
-
-Category: GAME
-Highest Rated: Axe Champs! Wars (5.0)
-Lowest Rating: BJ Bridge Standard American 2018 (1.0)
-Average Rating: 4.301284403669726
-
-Category: MAPS_AND_NAVIGATION
-Highest Rated: Tour BD (Bahir Dar Map) (4.9)
-Lowest Rating: DB Transport (1.9)
-Average Rating: 3.998245614035088
-
-Category: FINANCE
-Highest Rated: BI APP (5.0)
-Lowest Rating: EI SmartMiles (2.4)
-Average Rating: 4.202721088435373
-
-Category: AUTO_AND_VEHICLES
-Highest Rated: Tickets SDA 2018 and Exam from the State Traffic Safety Inspectorate with Drom.ru (4.9)
-Lowest Rating: EZ-ELD Driver App (Free) (2.1)
-Average Rating: 4.091666666666666
-
-Category: HOUSE_AND_HOME
-Highest Rated: DIY On A Budget (4.7)
-Lowest Rating: ColorSnap® Visualizer (3.4)
-Average Rating: 4.224137931034482
-
-Category: HEALTH_AND_FITNESS
-Highest Rated: MI-BP (5.0)
-Lowest Rating: AF Hydro (2.0)
-Average Rating: 4.22312925170068
-
-Category: ENTERTAINMENT
-Highest Rated: Motorola Spotlight Player™ (4.6)
-Lowest Rating: Acorn TV: World-class TV from Britain and Beyond (3.0)
-Average Rating: 4.15492957746479
-
-Category: WEATHER
-Highest Rated: Weather forecast (4.8)
-Lowest Rating: SMHI Weather (3.5)
-Average Rating: 4.214285714285715
-
-Category: PARENTING
-Highest Rated: DF Glue Board (5.0)
-Lowest Rating: AppClose - The #1 FREE Co-Parenting App (3.5)
-Average Rating: 4.368181818181818
-
-Category: LIFESTYLE
-Highest Rated: AJ Men's Grooming (5.0)
-Lowest Rating: Pick-a-Paint (1.6)
-Average Rating: 4.112925170068029
-
-Category: COMICS
-Highest Rated: Hojiboy Tojiboyev Life Hacks (5.0)
-Lowest Rating: AF Comics Reader - Free (2.8)
-Average Rating: 4.133333333333334
-
-Category: VIDEO_PLAYERS
-Highest Rated: Video Player All Format (4.8)
-Lowest Rating: Q-See Plus (2.2)
-Average Rating: 4.059722222222223
-
-Category: ART_AND_DESIGN
-Highest Rated: Harley Quinn wallpapers HD (4.8)
-Lowest Rating: Learn To Draw Kawaii Characters (3.2)
-Average Rating: 4.235714285714287
-
-Category: DATING
-Highest Rated: Awake Dating (5.0)
-Lowest Rating: House party - live chat (1.0)
-Average Rating: 3.8924999999999996
-
-Category: MEDICAL
-Highest Rated: FHR 5-Tier 2.0 (5.0)
-Lowest Rating: Clarksburg AH (1.0)
-Average Rating: 4.192307692307691
-
-Category: 1
-Highest Rated: "Math Quiz Free: Grades K (2.0)
-Lowest Rating: "Math Quiz Free: Grades K (2.0)
-Average Rating: 2.0
-
-Category: SHOPPING
-Highest Rated: AJ RETAILS (5.0)
-Lowest Rating: Coupon Mob - Discount Coupons (3.0)
-Average Rating: 4.247115384615383
-
-Category: SOCIAL
-Highest Rated: Movement BE (5.0)
-Lowest Rating: BR Chat Bot (1.9)
-Average Rating: 4.203418803418803
-
-Category: BEAUTY
-Highest Rated: Ulta Beauty (4.7)
-Lowest Rating: Female Daily (3.9)
-Average Rating: 4.322222222222223
-
-Category: PRODUCTIVITY
-Highest Rated: BV Mobile Apps (5.0)
-Lowest Rating: Thistletown CI (1.0)
-Average Rating: 4.148809523809526
-
-Category: COMMUNICATION
-Highest Rated: BS-Mobile (5.0)
-Lowest Rating: CJ DVD Rentals (1.0)
-Average Rating: 4.1105633802816905
-
-Category: TOOLS
-Highest Rated: ADS-B Driver (5.0)
-Lowest Rating: DT future1 cam (1.0)
-Average Rating: 4.004970760233917
-
+always
+another
+asked
+away
+back
+bad
+ball
+bed
+bent
+bet
+big
+bit
+bite
+book
+books
+bow
+box
+bump
+bumps
+ca
+cake
+call
+came
+cat
+cold
+come
+could
+cup
+day
+dear
+deep
+dish
+dots
+dr
+fall
+fan
+fast
+fear
+fell
+find
+fish
+fly
+fox
+fun
+funinabox
+funny
+game
+games
+gave
+get
+give
+go
+gone
+good
+got
+gown
+hall
+hand
+hands
+hat
+head
+hear
+high
+hit
+hold
+home
+hook
+hop
+hops
+house
+jump
+jumps
+kicks
+kind
+kinds
+kite
+kites
+know
+last
+let
+like
+lit
+litte
+little
+look
+looked
+lot
+lots
+made
+make
+man
+mat
+mess
+milk
+mind
+mother
+mothers
+near
+net
+new
+nothing
+oh
+one
+pack
+pat
+pick
+picked
+pink
+play
+playthings
+plop
+pot
+put
+rake
+ran
+red
+rid
+run
+sad
+said
+sally
+sank
+sat
+saw
+say
+see
+seuss
+shake
+shame
+shine
+ship
+shook
+show
+shut
+sit
+something
+stand
+step
+stop
+string
+strings
+sun
+sunny
+tail
+take
+tall
+tame
+tell
+thing
+things
+think
+thoe
+thump
+thumps
+tip
+top
+toy
+trick
+tricks
+two
+upupup
+us
+wall
+want
+way
+well
+went
+wet
+white
+wish
+wood
+would
+yes
+yet
